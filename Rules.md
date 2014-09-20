@@ -1,4 +1,4 @@
-# Rules of JavaScript NZ Incorporated
+# ![JavaScript NZ Logo](Logo-48.png) Rules of JavaScript NZ Incorporated
 
 ## The Society
 
