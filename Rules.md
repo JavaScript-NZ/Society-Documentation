@@ -218,7 +218,7 @@ The Committee is responsible to provide the auditor with:
     3. Notice of any motions and the Committee’s recommendations about those motions.
     4. If the Secretary has sent a notice to all Members in good faith, the Meeting and its business will not be invalidated simply because one or more Members do not receive the notice.
 
-5. All Members may attend and vote at Society Meetings.
+5. All Members may attend and vote at Society Meetings, attendance can be either in person or remotely.
 6. No Society Meeting may be held unless at least [XXX] % of eligible Members attend. (This will constitute a quorum.)
 7. All Society Meetings shall be Chaired by the Chair/President. If the Chair/President is absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
 8. On any given motion at a Society Meeting, the Chair/President shall in good faith determine whether to vote by:
