@@ -218,17 +218,19 @@ The Committee is responsible to provide the auditor with:
     3. Notice of any motions and the Committee’s recommendations about those motions.
     4. If the Secretary has sent a notice to all Members in good faith, the Meeting and its business will not be invalidated simply because one or more Members do not receive the notice.
 
-5. All Members may attend and vote at Society Meetings, attendance can be either in person or remotely.
-6. No Society Meeting may be held unless at least [XXX] % of eligible Members attend. (This will constitute a quorum.)
-7. All Society Meetings shall be Chaired by the Chair/President. If the Chair/President is absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
-8. On any given motion at a Society Meeting, the Chair/President shall in good faith determine whether to vote by:
+5. All Members may attend and vote at Society Meetings.
+6. Attendance can be either in person or remotely.
+7. Voting can be done either in person or remotely (asynchronously in a timely manner). 
+8. No Society Meeting may be held unless at least [XXX] % of eligible Members attend. (This will constitute a quorum.)
+9. All Society Meetings shall be Chaired by the Chair/President. If the Chair/President is absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
+10. On any given motion at a Society Meeting, the Chair/President shall in good faith determine whether to vote by:
   1. Voices;
   2. Show of hands; or
   3. Secret ballot.
 
   However, if any Member demands a secret ballot before a vote by voices or show of hands has begun, voting must be by secret ballot. If a secret ballot is held, the Chair/President will have a casting, that is, second vote.
 
-9. The business of an Annual General Meeting shall be:
+11. The business of an Annual General Meeting shall be:
   1. Receiving any minutes of the previous Society’s Meeting(s);
   2. The Chair/President’s report on the business of the Society;
   3. The Treasurer’s report on the finances of the Society, and the Annual Financial Statements;
@@ -236,8 +238,8 @@ The Committee is responsible to provide the auditor with:
   5. Motions to be considered;
   6. General business.
 
-10. The Chair/President or his nominee shall adjourn the meeting if necessary.
-11. Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Chair/President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Chair/President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
+12. The Chair/President or his nominee shall adjourn the meeting if necessary.
+13. Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Chair/President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Chair/President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
 ### 22.0 Motions at Society Meetings
 
