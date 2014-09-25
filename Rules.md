@@ -11,12 +11,13 @@
 
 1. The Registered office of the Society is
 
-  Atomic Systems
-  Level 1
-  90 Dixon Street
-  Te Aro
-  Wellington
+  Atomic Systems  
+  Level 1  
+  90 Dixon Street  
+  Te Aro  
+  Wellington  
   6012
+
 
 ### 3.0 Purposes of Society
 
