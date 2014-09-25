@@ -21,7 +21,6 @@
   3. Provide support for the JavaScript community events;
   4. Work with event organisers to ensure the JavaScript community and events in New Zealand are safe and welcoming;
   5. Do anything necessary or helpful to the above purposes.
-
 2. Pecuniary gain is not a purpose of the Society.
 
 ## Management of the Society
@@ -33,9 +32,7 @@
   2. The Secretary;
   3. The Treasurer;
   4. such other Members as the Society shall decide.
-
 2. Only members of the Society may be Committee Members.
-
 3. There shall be a minimum of three Committee Members, in addition to the Officers.
 
 ### 5.0 Appointment of Committee Members
@@ -52,7 +49,6 @@
   1. They resign by giving written notice to the Committee;
   2. They are removed by majority vote of the Society at a Society Meeting;
   3. Their Term expires.
-
 2. If a person ceases to be a Committee Member, that person must within one month give to the Committee all Society documents and property.
 
 ### 7.0 Nomination of Committee Members
@@ -76,7 +72,6 @@
   9. Decide the procedures for dealing with complaints;
   10. Set Membership fees, including subscriptions and levies;
   11. Make regulations.
-
 2. The Committee has all of the powers of the Society, unless the Committee’s power is limited by these Rules, or by a majority decision of the Society.
 3. All decisions of the Committee shall be by a majority vote. In the event of an equal vote, the Chair/President shall have a casting vote, that is, a second vote.
 4. Decisions of the Committee bind the Society, unless the Committee’s power is limited by these Rules or by a majority decision of the Society.
@@ -89,7 +84,6 @@
   3. Chairing Meetings, deciding who may speak and when;
   4. Overseeing the operation of the Society;
   5. Providing a report on the operations of the Society at each Annual General Meeting.
-
 2. The Secretary is responsible for:
   1. Recording the minutes of Meetings;
   2. Keeping the Register of Members;
@@ -97,7 +91,6 @@
   4. Receiving and replying to correspondence as required by the Committee;
   5. Forwarding the annual financial statements for the Society to the Registrar of Incorporated Societies upon their approval by the Members at an Annual General Meeting.
   6. Advising the Registrar of Incorporated Societies of any rule changes;
-
 3. The Treasurer is responsible for:
   1. Keeping proper accounting records of the Society’s financial transactions to allow the Society’s financial position to be readily ascertained;
   2. Preparing annual financial statements for presentation at each Annual General Meeting. These statements should be prepared in accordance with the Societies’ accounting policies (see 8.1.d).
@@ -128,7 +121,6 @@
 1. To become a Member, a person (“the Applicant”) must:
   1. Complete an application form, if the Rules, Bylaws or Committee requires this; and
   2. Supply any other information the Committee requires.
-
 2. The Committee may interview the Applicant when it considers Membership applications.
 3. The Committee shall have complete discretion when it decides whether or not to allow the Applicant become a Member. The Committee shall advise the Applicant of its decision, and that decision shall be final.
 
@@ -193,13 +185,11 @@ Explanation: The organisation needs to consider what assurance over the financia
   1. Access to all information of which the Committee is aware that is relevant to the preparation of the financial statements such as records, documentation and other matters
   2. Additional information that the reviewer may request from the Committee for the purpose of the review; and
   3. Reasonable access to persons within the Society from whom the reviewer determines it necessary to obtain evidence.
-
 2. The Society shall appoint an Auditor to audit the annual financial statements of the Society. The Auditor shall report on whether the financial statements are prepared in all material respects in accordance with the Society’s accounting policies. The Auditor must be a suitably qualified person. and preferably be a member of the New Zealand Institute of Chartered Accountants, and must not be a member of the Committee, or an employee of the Society. If the Society appoints an Auditor who is unable to act for some reason, the Committee shall appoint another Auditor as a replacement.
 The Committee is responsible to provide the auditor with:
   1. Access to all information of which the Committee is aware that is relevant to the preparation of the financial statements such as records, documentation and other matters
   2. Additional information that the auditor may request from the Committee for the purpose of the audit; and
   3. Reasonable access to persons within the Society from whom the auditor determines it necessary to obtain evidence.
-
 3. No review or audit of the annual financial statements is required unless a review or audit is requested by 5% of the Members at any properly convened Society Meeting.
 
  
@@ -217,7 +207,6 @@ The Committee is responsible to provide the auditor with:
     2. A list of Nominees for the Committee, and information about those Nominees if it has been provided. (The Secretary must not provide Members with information exceeding one side of an A4 sheet of paper per Nominee)
     3. Notice of any motions and the Committee’s recommendations about those motions.
     4. If the Secretary has sent a notice to all Members in good faith, the Meeting and its business will not be invalidated simply because one or more Members do not receive the notice.
-
 5. All Members may attend and vote at Society Meetings.
 6. Attendance can be either in person or remotely.
 7. Voting can be done either in person or remotely (asynchronously in a timely manner). 
@@ -229,7 +218,6 @@ The Committee is responsible to provide the auditor with:
   3. Secret ballot.
 
   However, if any Member demands a secret ballot before a vote by voices or show of hands has begun, voting must be by secret ballot. If a secret ballot is held, the Chair/President will have a casting, that is, second vote.
-
 11. The business of an Annual General Meeting shall be:
   1. Receiving any minutes of the previous Society’s Meeting(s);
   2. The Chair/President’s report on the business of the Society;
@@ -237,7 +225,6 @@ The Committee is responsible to provide the auditor with:
   4. Election of Committee Members;
   5. Motions to be considered;
   6. General business.
-
 12. The Chair/President or his nominee shall adjourn the meeting if necessary.
 13. Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Chair/President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Chair/President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
@@ -247,7 +234,6 @@ The Committee is responsible to provide the auditor with:
   1. It must be voted on at the Society Meeting chosen by the Member; and
   2. The Secretary must give the Member’s Information to all Members at least 14 days before the Society Meeting chosen by the Member; or
   If the Secretary fails to do this, the Member has the right to raise the motion at the following Society Meeting.
-
 2. The Committee may also decide to put forward motions for the Society to vote on (“Committee Motions”) which shall be suitably notified.
 
 ## Common seal
