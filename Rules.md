@@ -5,7 +5,7 @@
 ### 1.0 Name
 
 1. The name of the Society is JavaScript NZ Incorporated (“the Society”).
-2. The Society is constituted by resolution dated [XXX].
+2. The Society is constituted by resolution dated 15th October 2014.
 
 ### 2.0 Registered Office
 
