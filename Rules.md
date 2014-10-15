@@ -235,7 +235,7 @@ The Committee is responsible to provide the auditor with:
 
 ### 22.0 Motions at Society Meetings
 
-1. Any Member may request that a motion be voted on (“Member’s Motion”) at a particular Society Meeting, by giving written notice to the Secretary at least 28 days before that meeting. The Member may also provide information in support of the motion (“Member’s Information”). The Committee may in its absolute discretion decide whether or not the Society will vote on the motion. However, if the Member’s Motion is signed by at least [XXX] % of eligible Members:
+1. Any Member may request that a motion be voted on (“Member’s Motion”) at a particular Society Meeting, by giving written notice to the Secretary at least 28 days before that meeting. The Member may also provide information in support of the motion (“Member’s Information”). The Committee may in its absolute discretion decide whether or not the Society will vote on the motion. However, if the Member’s Motion is signed by at least 10% of eligible Members:
   1. It must be voted on at the Society Meeting chosen by the Member; and
   2. The Secretary must give the Member’s Information to all Members at least 14 days before the Society Meeting chosen by the Member; or
   If the Secretary fails to do this, the Member has the right to raise the motion at the following Society Meeting.
