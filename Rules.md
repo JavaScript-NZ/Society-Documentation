@@ -18,6 +18,9 @@
         Wellington  
         6012
 
+2. The email address of the Society is:
+
+        society@javascript.org.nz
 
 ### 3.0 Purposes of Society
 
