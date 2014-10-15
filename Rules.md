@@ -130,8 +130,8 @@
 
 ### 13.0 The Register of Members
 
-1. The Secretary shall keep a register of Members (“the Register”), which shall contain the names, the postal and email addresses and telephone numbers of all Members, and the dates at which they became Members.
-2. If a Member’s contact details change, that Member shall give the new postal or email address or telephone number to the Secretary.
+1. The Secretary shall keep a register of Members (“the Register”), which shall contain the name (or pseudonym), and email addresses of all Members, and the dates at which they became Members.
+2. If a Member’s contact details change, that Member shall give the email address and changes to other held contact details to the Secretary.
 3. Each Member shall provide such other details as the Committee requires.
 4. Members shall have reasonable access to the Register of Members.
 
