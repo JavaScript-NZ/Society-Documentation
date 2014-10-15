@@ -218,8 +218,9 @@ The Committee is responsible to provide the auditor with:
 9. All Society Meetings shall be Chaired by the Chair/President. If the Chair/President is absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
 10. On any given motion at a Society Meeting, the Chair/President shall in good faith determine whether to vote by:
   1. Voices;
-  2. Show of hands; or
-  3. Secret ballot.
+  2. Show of hands;
+  3. Secret ballot; or
+  4. An alternative specified method indicated by the Chair/President at the start of the meeting.
 
   However, if any Member demands a secret ballot before a vote by voices or show of hands has begun, voting must be by secret ballot. If a secret ballot is held, the Chair/President will have a casting, that is, second vote.
 11. The business of an Annual General Meeting shall be:
