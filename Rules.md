@@ -159,10 +159,7 @@
 
 ### 16.0 Use of Money and Other Assets
 
-1. The Society may only Use Money and Other Assets if:
-  1. It is for a purpose of the Society;
-  2. It is not for the sole personal or individual benefit of any Member; and
-  3. That Use has been approved by either the Committee or by majority vote of the Society.
+1. The funds of the Society shall be held under the control of the officers of the committee. The Treasurer and Secretary shall have joint required signing rights, and operate the bank accounts, handle investments, and make payments as needed.
 
 ### 17.0 Joining Fees, Subscriptions and Levies
 
