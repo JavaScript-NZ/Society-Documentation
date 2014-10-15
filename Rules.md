@@ -253,7 +253,7 @@ The Committee is responsible to provide the auditor with:
 ### 24.0 Altering the Rules
 
 1. The Society may alter or replace these Rules at a Society Meeting by a resolution passed by a two-thirds majority of those Members present and voting.
-2. Any proposed motion to amend or replace these Rules shall be signed by at least [XXX] % of eligible Members and given in writing to the Secretary at least 28 days before the Society Meeting at which the motion is to be considered, and accompanied by a written explanation of the reasons for the proposal.
+2. Any proposed motion to amend or replace these Rules shall be signed by at least 25% of eligible Members and given in writing to the Secretary at least 28 days before the Society Meeting at which the motion is to be considered, and accompanied by a written explanation of the reasons for the proposal.
 3. At least 14 days before the General Meeting at which any Rule change is to be considered the Secretary shall give to all Members written notice of the proposed motion, the reasons for the proposal, and any recommendations the Committee has.
 4. When a Rule change is approved by a General Meeting no Rule change shall take effect until the Secretary has filed the changes with the Registrar of Incorporated Societies.
 
