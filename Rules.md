@@ -277,7 +277,7 @@ The Committee is responsible to provide the auditor with:
     2. According to the provisions in the Incorporated Societies Act 1908; but
   3. No distribution may be made to any Member;
   4. The surplus Money and Other Assets shall be distributed to: [see S.27 of the Act]
-    1. [XXX Stipulate one or more organisations/purposes].
+    1. A Charitable Organisation or Incorporated Society, as determined by the Committee.
 
 ## Definitions
 
