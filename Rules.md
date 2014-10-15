@@ -178,7 +178,7 @@
 
 ### 19.0 Financial Year
 
-1. The financial year of the Society begins on [XXX] of every year and ends on [XXX] of the next year.
+1. The financial year of the Society begins on 1st October of every year and ends on 30th September of the next year.
 
 ### 20.0 Assurance on the Financial Statements
 
