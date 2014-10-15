@@ -23,10 +23,8 @@
 
 1. The purposes of the Society are to:
   1. Foster and support the JavaScript programming language, its users, community, and ecosystem in New Zealand;
-  2. Advocate for Open source in general, and the JavaScript programming language in particular;
-  3. Provide support for the JavaScript community events;
-  4. Work with event organisers to ensure the JavaScript community and events in New Zealand are safe and welcoming;
-  5. Do anything necessary or helpful to the above purposes.
+  2. Work with event organisers to ensure the JavaScript community and events in New Zealand are safe and welcoming;
+  3. Do anything necessary or helpful to the above purposes.
 2. Pecuniary gain is not a purpose of the Society.
 
 ## Management of the Society
@@ -185,7 +183,7 @@
 Explanation: The organisation needs to consider what assurance over the financial statements it wants or needs. If a reviewer is required, use paragraph 20.1, if an auditor, use paragraphs 20.2, or use 20.3.
 
 1. The Society shall appoint an accountant to review the annual financial statements of the Society (“the Reviewer”). The Reviewer shall conduct an examination with the objective of providing a report that nothing has come to the Reviewer’s attention to cause the Reviewer to believe that the financial information is not presented in accordance with the Society’s accounting policies. The Reviewer must be a suitably qualified person, preferably a member of the New Zealand Institute of Chartered Accountants, and must not be a member of the Committee, or an employee of the Society. If the Society appoints a Reviewer who is unable to act for some reason, the Committee shall appoint another Reviewer as a replacement.
-  
+
   The Committee is responsible to provide the Reviewer with:
 
   1. Access to all information of which the Committee is aware that is relevant to the preparation of the financial statements such as records, documentation and other matters
@@ -198,7 +196,7 @@ The Committee is responsible to provide the auditor with:
   3. Reasonable access to persons within the Society from whom the auditor determines it necessary to obtain evidence.
 3. No review or audit of the annual financial statements is required unless a review or audit is requested by 5% of the Members at any properly convened Society Meeting.
 
- 
+
 ## Conduct of meetings
 
 ### 21.0 Society Meetings
