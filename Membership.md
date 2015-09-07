@@ -8,5 +8,6 @@
 * Voting on issues at AGM
 * Committing issues to the Committee Meetings
 * Saying "I'm a member of the JavaScript NZ Society"
+* A warm fuzzy feeling of knowing you're helping the Society acheive its goals
 
 **Registry**: We have a register of members. Access to the registry is governed by the rules of the Society
