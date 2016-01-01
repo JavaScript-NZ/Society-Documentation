@@ -41,7 +41,7 @@ Harassment includes, but is not limited to:
 
 ### Enforcement
 
-Participants asked to stop any harassing behavior are expected to comply immediately
+Participants asked to stop any harassing behaviour are expected to comply immediately
 
 [Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.]
 
@@ -89,12 +89,12 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 ### Warnings
 
-Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference's anti-harassment policy. Warnings should be reported to [insert email address/phone number/etc. here] as soon as practical. The report should include:
+Any member of conference staff can issue a verbal warning to a participant that their behaviour violates the conference's anti-harassment policy. Warnings should be reported to [insert email address/phone number/etc. here] as soon as practical. The report should include:
 
 * Identifying information (name/badge number) of the participant
 * The time you issued the warning
-* The behavior that was in violation
-* The approximate time of the behavior (if different than the time of warning)
+* The behaviour that was in violation
+* The approximate time of the behaviour (if different than the time of warning)
 * The circumstances surrounding the incident
 * Your identity
 * Other people involved in the incident
@@ -116,7 +116,7 @@ A participant may be expelled by the decision of any of the above listed entitie
 
 * A [first/second/third/seventeenth] offense resulting in a warning from staff
 * Continuing to harass after any "No" or "Stop" instruction
-* A pattern of harassing behavior, with or without warnings
+* A pattern of harassing behaviour, with or without warnings
 * A single serious offense (e.g., punching or groping someone)
 * A single obviously intentional offense (e.g., taking up-skirt photos)
 * [Your guideline here]
@@ -127,6 +127,6 @@ Hotel/venue security and local authorities should be contacted when appropriate.
 
 ### Public statements
 
-As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference.
+As a general rule, conference staff should not make any public statements about the behaviour of individual people during or after the conference.
 
 In general, consult with other staff members when possible but act when necessary.

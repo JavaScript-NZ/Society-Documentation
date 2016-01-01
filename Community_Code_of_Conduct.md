@@ -42,13 +42,13 @@ JavaScript NZ Inc prioritizes marginalized people’s safety over privileged peo
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+* Criticizing racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions
 
 ## Reporting
 
 If you are being harassed by a member of JavaScript NZ Inc, notice that someone else is being harassed, or have any other concerns, please contact the Committee at [abuse@javascript.org.nz](mailto:abuse@javascript.org.nz). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to JavaScript NZ Inc spaces, but if you are being harassed by a member of JavaScript NZ Inc outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by JavaScript NZ Inc members, especially the Committee, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from JavaScript NZ Inc based on their past behavior, including behavior outside JavaScript NZ Inc spaces and behavior towards people who are not in JavaScript NZ Inc.
+This code of conduct applies to JavaScript NZ Inc spaces, but if you are being harassed by a member of JavaScript NZ Inc outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by JavaScript NZ Inc members, especially the Committee, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from JavaScript NZ Inc based on their past behaviour, including behaviour outside JavaScript NZ Inc spaces and behaviour towards people who are not in JavaScript NZ Inc.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -56,6 +56,6 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ## Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-If a participant engages in harassing behavior, the Committee may take any action they deem appropriate, up to and including expulsion from all JavaScript NZ Inc spaces and identification of the participant as a harasser to other JavaScript NZ Inc members or the general public.
+If a participant engages in harassing behaviour, the Committee may take any action they deem appropriate, up to and including expulsion from all JavaScript NZ Inc spaces and referral of the matter to the New Zealand Police force.
