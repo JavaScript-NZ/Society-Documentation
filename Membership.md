@@ -1,4 +1,4 @@
-# Becoming a Member
+# <img src="https://raw.githubusercontent.com/JavaScript-NZ/Society-Logo/master/png/javascript-new-zealand-logo.png" width="100"> Becoming a Member
 
 **Becoming a member**: Send an email to [membership@javascript.org.nz](mailto:membership@javascript.org.nz) and you'll receive an invoice for membership dues (bear with us - it can take a few days before you get the invoice). Your membership will be active upon receipt of membership dues.
 

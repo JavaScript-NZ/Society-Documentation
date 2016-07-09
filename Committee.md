@@ -1,4 +1,4 @@
-# JavaScript NZ Incorporated Committee
+# <img src="https://raw.githubusercontent.com/JavaScript-NZ/Society-Logo/master/png/javascript-new-zealand-logo.png" width="100"> JavaScript NZ Incorporated Committee
 
 Committee email: society@javascript.org.nz
 

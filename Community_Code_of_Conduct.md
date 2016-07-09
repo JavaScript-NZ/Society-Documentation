@@ -1,4 +1,4 @@
-# ![JavaScript NZ Logo](Logo-48.png) JavaScript NZ Community Code of Conduct
+# <img src="https://raw.githubusercontent.com/JavaScript-NZ/Society-Logo/master/png/javascript-new-zealand-logo.png" width="100"> JavaScript NZ Community Code of Conduct
 
 This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community.
 
