@@ -6,15 +6,15 @@ Committee email: society@javascript.org.nz
 
 president@javascript.org.nz
 
-Walter Rumsby  
-<walter@rumsby.net>
+Owen Evans 
+<owen@bgeek.net>
 
 ## Secretary
 
 secretary@javascript.org.nz
 
-Blair McBride  
-<blair@theunfocused.net>
+Sampson Ootoovak 
+<ootoovak@gmail.com>
 
 ## Treasurer
 
@@ -28,6 +28,6 @@ Alex Gibson
 * Craig Spence
 * Jen Zajac
 * Kevin Isom
-* Owen Evans
-* Vimal Jobanputra
-* Graham Jenson
+* Anna Lezhikova
+* James MacFie
+* Stevie Mayhew
