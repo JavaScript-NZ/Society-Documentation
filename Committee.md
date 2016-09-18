@@ -14,7 +14,7 @@ Owen Evans
 secretary@javascript.org.nz
 
 Sampson Ootoovak 
-<?>
+<ootoovak@gmail.com>
 
 ## Treasurer
 
