@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/JavaScript-NZ/Society-Logo/master/png/javascript-new-zealand-logo.png" width="100"> Becoming a Member
 
-**Becoming a member**: Send an email to [membership@javascript.org.nz](mailto:membership@javascript.org.nz) and you'll receive an invoice for membership dues (bear with us - it can take a few days before you get the invoice). Your membership will be active upon receipt of membership dues.
+**Becoming a member**: Head over to [https://javascript.org.nz/join](https://javascript.org.nz/join) and fill out the details, you will receive an email confirming your payment and a follow up email containing details of your membership. If you decide that you wish to cancel your membership you can do so by visiting our cancellation page which is linked in the follow up email.
 
-**Fees**: Currently we charge a $20 fee for membership. This is subject to regular review, and is currently expected to be an annual fee.
+**Fees**: Currently we charge a $25 fee for general membership, and $10 for a student membership. This is subject to regular review, and is currently an annual fee.
 
 **Benefits**: We currently have a very small number of benefits but expect this to grow
 * Voting on issues at AGM
