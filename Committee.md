@@ -13,21 +13,19 @@ Owen Evans
 
 secretary@javascript.org.nz
 
-Sampson Ootoovak 
-<ootoovak@gmail.com>
+Jen Zajac
 
 ## Treasurer
 
 treasurer@javascript.org.nz
 
-Alex Gibson  
-<darth.gibson@gmail.com>
+Fabian Cook
 
 ## Officers
 
-* Craig Spence
-* Jen Zajac
 * Kevin Isom
-* Anna Lezhikova
-* James MacFie
-* Stevie Mayhew
+* aurynn shaw
+* James Pluck
+* (Open)
+* (Open)
+* (Open)
