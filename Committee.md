@@ -6,8 +6,7 @@ Committee email: society@javascript.org.nz
 
 president@javascript.org.nz
 
-Owen Evans 
-<owen@bgeek.net>
+Fabian Cook
 
 ## Secretary
 
@@ -19,13 +18,13 @@ Jen Zajac
 
 treasurer@javascript.org.nz
 
-Fabian Cook
+Aurynn Shaw
 
 ## Officers
 
-* Kevin Isom
-* aurynn shaw
-* James Pluck
+* Jae Huh
+* Julia Niall
+* Stevie Mayhew
 * (Open)
 * (Open)
 * (Open)
